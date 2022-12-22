@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-#ini update
 
 class functions:
     def __init__(self, maxpher, n, probAnt):
