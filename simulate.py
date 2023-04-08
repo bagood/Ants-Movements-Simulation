@@ -1,4 +1,4 @@
-from semutFunctions import functions
+from storeFunctions import functions
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
