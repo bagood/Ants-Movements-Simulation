@@ -14,7 +14,7 @@ threshold = 50
 diffusionRate = 0.01
 iter = 50
 
-# Generates each iterations for the simulation 
+# Generates each iterations for the simulation
 funcSemut = functions(maxpher, n, probAnt)
 list_matriks = np.zeros((iter, 17, 17))
 matriks = funcSemut.generate_matriks()
